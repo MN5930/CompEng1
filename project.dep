@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1839593830</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\system_sam3x.c</file>
+      <file>$PROJ_DIR$\startup_sam3x.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Libraries\X_BUTTON.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_KEYPAD.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_sam3x.o</file>
+      <file>$PROJ_DIR$\Libraries\X_ENTITY.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Libraries\X_NVIC.h</file>
+      <file>$PROJ_DIR$\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_LCD.pbi</file>
+      <file>$PROJ_DIR$\Libraries\X_SERVO.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Libraries\X_RTC.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PHOTO.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PIO.pbi</file>
+      <file>$PROJ_DIR$\Libraries\X_FUNCTIONS.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\PMC.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$PROJ_DIR$\system_sam3x.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_LCD.o</file>
+      <file>$PROJ_DIR$\..\tutorial\Libraries\PMC.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PMC.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_FUNCTIONS.pbi</file>
+      <file>$PROJ_DIR$\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\exceptions.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_ENTITY.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PRESSURE.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PRESSURE.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_COMMON.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PMC.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_TEMP.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\exceptions.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_TEMP.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_ENTITY.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_RTC.o</file>
+      <file>$PROJ_DIR$\core_cm3.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_LED.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_COMMON.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\exceptions.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\project.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PIO.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\PMC.o</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$PROJ_DIR$\Libraries\X_PRESSURE.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_PHOTO.pbi</file>
+      <file>$PROJ_DIR$\Libraries\X_PHOTO.h</file>
+      <file>$PROJ_DIR$\Libraries\PMC.c</file>
+      <file>$PROJ_DIR$\Libraries\X_LED.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_RTC.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_NVIC.o</file>
+      <file>$PROJ_DIR$\Libraries\X_TEMP.h</file>
+      <file>$TOOLKIT_DIR$\config\linker\Atmel\SAM3X\SAM3X-EK\sam3x8-sram.icf</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_sam3x.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_SERVO.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_KEYPAD.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_FUNCTIONS.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_NVIC.pbi</file>
+      <file>$PROJ_DIR$\at91sam3x8.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Libraries\X_KEYPAD.h</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\Libraries\X_LCD.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cstartup.o</file>
+      <file>$PROJ_DIR$\Libraries\PMC.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_LED.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_BUTTON.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Libraries\X_PIO.h</file>
+      <file>$PROJ_DIR$\Libraries\X_COMMON.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_sam3x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_sam3x.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_SERVO.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Libraries\X_PMC.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\X_BUTTON.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Libraries\X_PRESSURE.c</file>
+      <file>$PROJ_DIR$\Libraries\X_COMMON.c</file>
+      <file>$PROJ_DIR$\Libraries\X_FUNCTIONS.c</file>
+      <file>$PROJ_DIR$\Libraries\X_LED.c</file>
+      <file>$PROJ_DIR$\Libraries\X_LCD.c</file>
+      <file>$PROJ_DIR$\Libraries\X_ENTITY.c</file>
+      <file>$PROJ_DIR$\Libraries\X_BUTTON.c</file>
+      <file>$PROJ_DIR$\Libraries\X_KEYPAD.c</file>
+      <file>$PROJ_DIR$\Libraries\X_SERVO.c</file>
+      <file>$PROJ_DIR$\Libraries\X_RTC.c</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Libraries\X_PIO.c</file>
+      <file>$PROJ_DIR$\Libraries\X_PHOTO.c</file>
+      <file>$PROJ_DIR$\Libraries\X_TEMP.c</file>
+      <file>$PROJ_DIR$\Libraries\X_PMC.c</file>
+      <file>$PROJ_DIR$\Libraries\X_NVIC.c</file>
+      <file>$PROJ_DIR$\cstartup.s</file>
+      <file>$PROJ_DIR$\exceptions.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\system_sam3x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 19 65 81 84 28 39 7 75 70 38 9 85 61 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 19 65 81 84 28 7 75 70 38 9 85 61 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_sam3x.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64 25 38 65 81 84 28 39 7 75 70 9 85 61 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64 25 38 65 81 84 28 7 75 70 9 85 61 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 56 83 41 36 62 60 20 40 54 14 44 31 27 37 58 32 71 42 2 5 57 68 53 46 67</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\project.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 74 30 26 23 4 10 73 63 48 15 22 29 52 80 34 33 35 79 78</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\PMC.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21 72 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_PRESSURE.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47 82 76 77 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47 82 76 77 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_COMMON.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77 19 65 81 84 28 39 7 75 70 38 9 85 61 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77 19 65 81 84 28 7 75 70 38 9 85 61 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_FUNCTIONS.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 49 11 51 55 66 6 77 69 59 81 84 28 39 7 75 70 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 49 11 51 55 66 6 77 69 59 81 84 28 7 75 70 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_LED.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 76 82</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 76 82</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_LCD.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 6 82 76 13 77 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69 6 82 76 13 77 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_ENTITY.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6 59 81 84 28 39 7 75 70 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 59 81 84 28 7 75 70 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_BUTTON.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3 82 76 8 19 65 81 84 28 39 7 75 70 38 9 85 61 24 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 82 76 8 19 65 81 84 28 7 75 70 38 9 85 61 24 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_KEYPAD.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 82 76 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 82 76 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_SERVO.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11 82 76 77 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11 82 76 77 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_RTC.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13 8 19 65 81 84 28 39 7 75 70 38 9 85 61 24 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 8 19 65 81 84 28 7 75 70 38 9 85 61 24 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19 65 81 84 28 39 7 75 70 38 9 85 61 24 64 51 77 16 69 6 47 55 66 3 13 59 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19 65 81 84 28 7 75 70 38 9 85 61 24 64 51 77 16 69 6 47 55 66 3 13 59 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_PIO.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 76 82 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76 82 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_PHOTO.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49 82 76 8 19 65 81 84 28 39 7 75 70 38 9 85 61 24 77 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49 82 76 8 19 65 81 84 28 7 75 70 38 9 85 61 24 77 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_TEMP.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55 82 76 8 19 65 81 84 28 39 7 75 70 38 9 85 61 24 77 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 82 76 8 19 65 81 84 28 7 75 70 38 9 85 61 24 77 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_PMC.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82 64</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Libraries\X_NVIC.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8 19 65 81 84 28 39 7 75 70 38 9 85 61 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 19 65 81 84 28 7 75 70 38 9 85 61 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\cstartup.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\exceptions.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Libraries\PMC.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
